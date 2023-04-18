@@ -18,7 +18,7 @@ This is a solution to the [Stats Preview Component challenge on Frontend Mentor]
 
 Users should be able to:
 
-- See hover states for interactive elements
+- The project must be responsive.
 
 ### Screenshot
 
